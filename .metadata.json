@@ -1,0 +1,14 @@
+[
+  {
+    "package": "Rwtss",
+    "oncran": true
+  },
+  {
+    "package": "sits",
+    "oncran": true
+  },
+  {
+    "package": "torchopt",
+    "oncran": true
+  }
+]
