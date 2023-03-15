@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "sits",
+    "package": "torchopt",
     "oncran": true
   },
   {
-    "package": "torchopt",
+    "package": "sits",
     "oncran": true
   }
 ]

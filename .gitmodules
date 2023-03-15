@@ -8,13 +8,13 @@
 	url = https://github.com/e-sensing/rwtss
 	shallow = true
 	registered = true
-[submodule "sits"]
-	path = sits
-	url = https://github.com/e-sensing/sits
-	shallow = true
-	registered = true
 [submodule "torchopt"]
 	path = torchopt
 	url = https://github.com/e-sensing/torchopt
+	shallow = true
+	registered = true
+[submodule "sits"]
+	path = sits
+	url = https://github.com/e-sensing/sits
 	shallow = true
 	registered = true
