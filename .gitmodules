@@ -5,6 +5,9 @@
 [submodule "Rwtss"]
 	path = Rwtss
 	url = https://github.com/e-sensing/rwtss
+[submodule "bayesEO"]
+	path = bayesEO
+	url = https://github.com/e-sensing/bayeseo
 [submodule "sits"]
 	path = sits
 	url = https://github.com/e-sensing/sits
