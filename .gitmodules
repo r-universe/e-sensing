@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Rwtss"]
-	path = Rwtss
-	url = https://github.com/e-sensing/rwtss
 [submodule "bayesEO"]
 	path = bayesEO
 	url = https://github.com/e-sensing/bayeseo
